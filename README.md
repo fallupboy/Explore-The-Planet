@@ -1,0 +1,2 @@
+This is my first 3D game project. It is about rocket flying around the map that is made with lots of cubes. Your main task is to fly from start point and to land on a finish pad. In addition, you can press ESC or click the button on the corner of screen to pause the game and open pause menu. Good luck on take off and touch down!
+Some cheat codes for you <3: press C to disable/enable collision, L to skip current level.
